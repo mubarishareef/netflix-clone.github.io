@@ -1,0 +1,217 @@
+body {
+  margin: 0px;
+  background-color: black;
+}
+hr {
+  width: 100%;
+  height: 15px;
+  background-color: rgb(247, 246, 246);
+  margin-bottom: 0;
+}
+.main {
+  width: 100%;
+  height: 2000px;
+  background: black;
+}
+.main1 {
+  position: static;
+  width: 100%;
+  height: 733.3px;
+  background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/1ecf18b2-adad-4684-bd9a-acab7f2a875f/6abbb576-106a-4175-a16e-af91cf881736/IN-en-20230116-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+  position: absolute;
+  opacity: 1;
+}
+.header {
+  width: 100%;
+  height: 80px;
+  padding-top: 28px;
+  position: relative;
+  background-color: rgba(0,0,0,.7);
+
+}
+.search-movie-outbox {
+  width: 100%;
+  height: 350px;
+  margin-top: 150px;
+  position: relative;
+  
+}
+.text-search {
+  width: 44%;
+  height: 100%;
+  margin-left: 28%;
+  background-color: rgba(0,0,0,.7);
+  position: relative;
+  
+}
+.main1-text1 {
+  width: 100%;
+  height: 40%;
+  position: relative;
+}
+.main1-text2 {
+  width: 100%;
+  height: 40%;
+  position: relative;
+}
+.search-box {
+  width: 100%;
+  height: 20%;
+  background: lightgray;
+  padding-top: 0ch;
+}
+.header-elements {
+  width: 100%;
+  height: 45px;
+  padding-top: 0px;
+  position: relative;
+  
+}
+.logo {
+  height: 100%;
+  width: 167px;
+  margin-left: 56px;
+  position: relative;
+  
+}
+.sign-in {
+  height: 100%;
+  width: 84px;
+  float: right;
+  margin-top: -45px;
+  margin-right: 56px;
+  position: relative;
+}
+.language-select{
+  height: 100%;
+  width: 100px;
+  float: right;
+  margin-right: 180px;
+  margin-top: -45px;
+  position: relative;
+}
+#logo-ntflx {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+#signin {
+  width: 100%;
+  height: 70%;
+  background-color: red;
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+  border-width: 0ch;
+  border-radius: 3px;
+  position: relative;
+}
+#language {
+  width: 100%;
+  height: 70%;
+  color: white;
+  background: transparent;
+  border-radius: 4px;
+  border-width: 2px;
+  border-color: rgba(136, 133, 133, 0.521);
+  padding-left: 30%;
+  position: relative;
+}
+.lang {
+  background-color: gray
+
+}
+#text1 {
+  text-align: center;
+  color: white;
+  font-size: 56px;
+  font-family: sans-serif;
+}
+#text2-1 {
+  text-align: center;
+  color: white;
+  font-size: 28px;
+  font-weight: 250;
+  font-family: sans-serif;
+}
+#text2-2 {
+  text-align: center;
+  color: white;
+  font-size: 22px;
+  font-weight: 150;
+  font-family: sans-serif;
+}
+#search input {
+  width: 100%;
+  height: 66px;
+  
+}
+#submit {
+  float: right;
+}
+.search-here {
+  width: 70%;
+  height: 100%;
+ 
+}
+.submit-btn {
+  float: right;
+  width: 29%;
+  height: 100%;
+ 
+}
+.submit-btn button{
+  float: right;
+  width: 105%;
+  height: 108%;
+  margin-block-start: -71px;
+  background-color: #e50914;
+  color: white;
+  font-size: 26px;
+}
+#search :placeholder-shown {
+  font-size: 20px;
+}
+.main2 {
+  width: 100%;
+  height: 300px;
+  background-color: black;
+  padding-top: 723.3px;
+}
+.hori-line {
+  width: 100%;
+  height: 10%;
+  background-color: black;
+}
+.main3 {
+  width: 100%;
+  height: 300px;
+  background-color: black;
+  margin-top: 10px
+}
+.main4 {
+  width: 100%;
+  height: 300px;
+  background-color: black;
+  margin-top: 0px
+}
+.movie {
+  float: left;
+  width: 10%;
+  height: 90% ;
+  background-color: rgb(60, 165, 160);
+  margin-left: 19px;
+  margin-top: 0px;
+}
+.poster {
+  width: 100%;
+  height:100%;
+}
+.headline-1 {
+  color: white;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 100;
+  margin-left: 19px;
+}
+
